@@ -1,4 +1,4 @@
-# Tropos Toolbox
+# Toolbox
 Utility functions to make life a bit easier in python 
 
 ## Functions
